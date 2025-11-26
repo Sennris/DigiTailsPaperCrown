@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: 19ac2416017753b439cac347335b587a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4295622712738766296
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_0
+  - first:
+      213: 2977634102876178309
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_1
+  - first:
+      213: -5167835349322270006
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_2
+  - first:
+      213: -7495191404903018424
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_3
+  - first:
+      213: -4728511256628464237
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_4
+  - first:
+      213: -5733306084000663476
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_5
+  - first:
+      213: -9067739315816977510
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_6
+  - first:
+      213: -8165011332924862723
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_7
+  - first:
+      213: -7280912425477003572
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_8
+  - first:
+      213: -276871813696341815
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_9
+  - first:
+      213: 5100774567136043964
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_10
+  - first:
+      213: 2743102156686496521
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_11
+  - first:
+      213: 2023782169221488307
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_12
+  - first:
+      213: -2220535995331198577
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_13
+  - first:
+      213: -247816263170618685
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_14
+  - first:
+      213: -2625503731631856475
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_15
+  - first:
+      213: 3688557241854491547
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_16
+  - first:
+      213: -4012150458900429853
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_17
+  - first:
+      213: -5179961768772521136
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_18
+  - first:
+      213: -3408048949852679972
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_19
+  - first:
+      213: -214407041759848831
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_20
+  - first:
+      213: 2535491965488659785
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_21
+  - first:
+      213: 7854498241265088011
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_22
+  - first:
+      213: -5929856658667028707
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_23
+  - first:
+      213: -4918086831862498691
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_24
+  - first:
+      213: -3221332475920565545
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_25
+  - first:
+      213: -9112250629560740902
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_26
+  - first:
+      213: 2643832298668368331
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_27
+  - first:
+      213: -4829918614857351082
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_28
+  - first:
+      213: 4525174189375665355
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_29
+  - first:
+      213: 3968515834426834485
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_30
+  - first:
+      213: -248386708501936910
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_31
+  - first:
+      213: 8486200009385495807
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_32
+  - first:
+      213: 4806568347235520478
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_33
+  - first:
+      213: -92083353970206741
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_34
+  - first:
+      213: -1915727347477836277
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_35
+  - first:
+      213: 8514419861791783532
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_36
+  - first:
+      213: 7523260489086716259
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_37
+  - first:
+      213: -8042872940262987464
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_38
+  - first:
+      213: 5856429409371160477
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_39
+  - first:
+      213: -5645699241593165429
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_40
+  - first:
+      213: -346135257958323197
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_41
+  - first:
+      213: 2159677932680182837
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_42
+  - first:
+      213: 77762425039311955
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_43
+  - first:
+      213: -7515923992133306964
+    second: The Forward Movement of a UnHealthy Rabbit JUMP_00016_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2048
+        height: 2039
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddd4e9191e1d9b30800000000000000
+      internalID: 4295622712738766296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_1
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 2038
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587060db07ea25920800000000000000
+      internalID: 2977634102876178309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_2
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2035
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca70f151292848b0800000000000000
+      internalID: -5167835349322270006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_3
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2023
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840d133e02bbbf790800000000000000
+      internalID: -7495191404903018424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1990
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39579389014f06eb0800000000000000
+      internalID: -4728511256628464237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1949
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48fd823e743f60b0800000000000000
+      internalID: -5733306084000663476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1916
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ba2ec922be82280800000000000000
+      internalID: -9067739315816977510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_7
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1912
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe89f9e37d00be80800000000000000
+      internalID: -8165011332924862723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1903
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc627b699b005fa90800000000000000
+      internalID: -7280912425477003572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1905
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8bf486d8a582cf0800000000000000
+      internalID: -276871813696341815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_10
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1875
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3ad79917799c640800000000000000
+      internalID: 5100774567136043964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_11
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1873
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90318efb0e4711620800000000000000
+      internalID: 2743102156686496521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_12
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1854
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be5733192be51c10800000000000000
+      internalID: 2023782169221488307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_13
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1844
+        width: 69
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81c053f6421f21e0800000000000000
+      internalID: -2220535995331198577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_14
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1698
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca8620fb649f8cf0800000000000000
+      internalID: -247816263170618685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_15
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1666
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4ee9f3446509bd0800000000000000
+      internalID: -2625503731631856475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_16
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1550
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b7e66c443603330800000000000000
+      internalID: 3688557241854491547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_17
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1412
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c1d73a6af158c0800000000000000
+      internalID: -4012150458900429853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1337
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053b53647341d18b0800000000000000
+      internalID: -5179961768772521136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_19
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1240
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd053e6698d24b0d0800000000000000
+      internalID: -3408048949852679972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_20
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186df867ee5460df0800000000000000
+      internalID: -214407041759848831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1074
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dfecd4280ef2320800000000000000
+      internalID: 2535491965488659785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_22
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 890
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0639871988c00d60800000000000000
+      internalID: 7854498241265088011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_23
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 865
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fba2369cae4bda0800000000000000
+      internalID: -5929856658667028707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 569
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a3f4465127fbbb0800000000000000
+      internalID: -4918086831862498691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_25
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 101
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da33553e278b43d0800000000000000
+      internalID: -3221332475920565545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_26
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 97
+        width: 150
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d3b8c458ca8180800000000000000
+      internalID: -9112250629560740902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_27
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 105
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc125dfc777c0b420800000000000000
+      internalID: 2643832298668368331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_28
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 51
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650816b1c9ea8fcb0800000000000000
+      internalID: -4829918614857351082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 5
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4b08823f5acce30800000000000000
+      internalID: 4525174189375665355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_30
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e36841020031730800000000000000
+      internalID: 3968515834426834485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_31
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 4
+        width: 55
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f440d8ca9d8d8cf0800000000000000
+      internalID: -248386708501936910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_32
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcc65c52f905c570800000000000000
+      internalID: 8486200009385495807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_33
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0c9d027c54b240800000000000000
+      internalID: 4806568347235520478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_34
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be711ec6daad8bef0800000000000000
+      internalID: -92083353970206741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_35
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 0
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e051f9028f965e0800000000000000
+      internalID: -1915727347477836277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_36
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a31a2c0cb492670800000000000000
+      internalID: 8514419861791783532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_37
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369cebc0e8df76860800000000000000
+      internalID: 7523260489086716259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_38
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839e50e7ca9f16090800000000000000
+      internalID: -8042872940262987464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_39
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 0
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ff7b5e487364150800000000000000
+      internalID: 5856429409371160477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_40
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 0
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a524b37276a1b0800000000000000
+      internalID: -5645699241593165429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_41
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ce72911d7423bf0800000000000000
+      internalID: -346135257958323197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_42
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 0
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf6a623a7b8fd10800000000000000
+      internalID: 2159677932680182837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_43
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 0
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35457597384441100800000000000000
+      internalID: 77762425039311955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Forward Movement of a UnHealthy Rabbit JUMP_00016_44
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5fe0243f212b790800000000000000
+      internalID: -7515923992133306964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_0: 4295622712738766296
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_1: 2977634102876178309
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_10: 5100774567136043964
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_11: 2743102156686496521
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_12: 2023782169221488307
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_13: -2220535995331198577
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_14: -247816263170618685
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_15: -2625503731631856475
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_16: 3688557241854491547
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_17: -4012150458900429853
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_18: -5179961768772521136
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_19: -3408048949852679972
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_2: -5167835349322270006
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_20: -214407041759848831
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_21: 2535491965488659785
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_22: 7854498241265088011
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_23: -5929856658667028707
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_24: -4918086831862498691
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_25: -3221332475920565545
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_26: -9112250629560740902
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_27: 2643832298668368331
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_28: -4829918614857351082
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_29: 4525174189375665355
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_3: -7495191404903018424
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_30: 3968515834426834485
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_31: -248386708501936910
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_32: 8486200009385495807
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_33: 4806568347235520478
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_34: -92083353970206741
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_35: -1915727347477836277
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_36: 8514419861791783532
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_37: 7523260489086716259
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_38: -8042872940262987464
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_39: 5856429409371160477
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_4: -4728511256628464237
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_40: -5645699241593165429
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_41: -346135257958323197
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_42: 2159677932680182837
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_43: 77762425039311955
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_44: -7515923992133306964
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_5: -5733306084000663476
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_6: -9067739315816977510
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_7: -8165011332924862723
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_8: -7280912425477003572
+      The Forward Movement of a UnHealthy Rabbit JUMP_00016_9: -276871813696341815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

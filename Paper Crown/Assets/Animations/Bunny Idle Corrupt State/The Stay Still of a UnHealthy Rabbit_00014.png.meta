@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 3c8c30fa64d3de648b621f67aa88c773
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4515050204915720094
+    second: The Stay Still of a UnHealthy Rabbit_00014_0
+  - first:
+      213: 3891820564584096223
+    second: The Stay Still of a UnHealthy Rabbit_00014_1
+  - first:
+      213: -6571946016571792494
+    second: The Stay Still of a UnHealthy Rabbit_00014_2
+  - first:
+      213: -3348592616593095250
+    second: The Stay Still of a UnHealthy Rabbit_00014_3
+  - first:
+      213: -8488676867481210180
+    second: The Stay Still of a UnHealthy Rabbit_00014_4
+  - first:
+      213: 674090703802855344
+    second: The Stay Still of a UnHealthy Rabbit_00014_5
+  - first:
+      213: -1581001965795835235
+    second: The Stay Still of a UnHealthy Rabbit_00014_6
+  - first:
+      213: 5087838369009693996
+    second: The Stay Still of a UnHealthy Rabbit_00014_7
+  - first:
+      213: 464703763167481403
+    second: The Stay Still of a UnHealthy Rabbit_00014_8
+  - first:
+      213: 1888767658281273582
+    second: The Stay Still of a UnHealthy Rabbit_00014_9
+  - first:
+      213: 1797489960172981770
+    second: The Stay Still of a UnHealthy Rabbit_00014_10
+  - first:
+      213: -1409952632216534726
+    second: The Stay Still of a UnHealthy Rabbit_00014_11
+  - first:
+      213: 4151805458646833189
+    second: The Stay Still of a UnHealthy Rabbit_00014_12
+  - first:
+      213: 2095337440647683831
+    second: The Stay Still of a UnHealthy Rabbit_00014_13
+  - first:
+      213: 8357095314565499199
+    second: The Stay Still of a UnHealthy Rabbit_00014_14
+  - first:
+      213: 3860528821634158520
+    second: The Stay Still of a UnHealthy Rabbit_00014_15
+  - first:
+      213: 7657991583305386256
+    second: The Stay Still of a UnHealthy Rabbit_00014_16
+  - first:
+      213: -7168058221828161229
+    second: The Stay Still of a UnHealthy Rabbit_00014_17
+  - first:
+      213: 5076143874133880291
+    second: The Stay Still of a UnHealthy Rabbit_00014_18
+  - first:
+      213: -5918902135154859559
+    second: The Stay Still of a UnHealthy Rabbit_00014_19
+  - first:
+      213: 2400091030945641947
+    second: The Stay Still of a UnHealthy Rabbit_00014_20
+  - first:
+      213: -8964001561590301502
+    second: The Stay Still of a UnHealthy Rabbit_00014_21
+  - first:
+      213: 8016463740838453546
+    second: The Stay Still of a UnHealthy Rabbit_00014_22
+  - first:
+      213: 5404353448812402649
+    second: The Stay Still of a UnHealthy Rabbit_00014_23
+  - first:
+      213: -7809736164869083076
+    second: The Stay Still of a UnHealthy Rabbit_00014_24
+  - first:
+      213: -1437766164897201937
+    second: The Stay Still of a UnHealthy Rabbit_00014_25
+  - first:
+      213: -9028350317465280774
+    second: The Stay Still of a UnHealthy Rabbit_00014_26
+  - first:
+      213: 27269820029340829
+    second: The Stay Still of a UnHealthy Rabbit_00014_27
+  - first:
+      213: 4991310876199349743
+    second: The Stay Still of a UnHealthy Rabbit_00014_28
+  - first:
+      213: -6954755554068107725
+    second: The Stay Still of a UnHealthy Rabbit_00014_29
+  - first:
+      213: -3872038913526376801
+    second: The Stay Still of a UnHealthy Rabbit_00014_30
+  - first:
+      213: 7864295454794987844
+    second: The Stay Still of a UnHealthy Rabbit_00014_31
+  - first:
+      213: 5473340493019606929
+    second: The Stay Still of a UnHealthy Rabbit_00014_32
+  - first:
+      213: 178217996249734891
+    second: The Stay Still of a UnHealthy Rabbit_00014_33
+  - first:
+      213: 4125146099341009626
+    second: The Stay Still of a UnHealthy Rabbit_00014_34
+  - first:
+      213: -8851998348714798908
+    second: The Stay Still of a UnHealthy Rabbit_00014_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2048
+        height: 2032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260a1f8a2c15751c0800000000000000
+      internalID: -4515050204915720094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_1
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 2031
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd168990f26820630800000000000000
+      internalID: 3891820564584096223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_2
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2028
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293e137eae1cbc4a0800000000000000
+      internalID: -6571946016571792494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_3
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2016
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5097eb1c86781d0800000000000000
+      internalID: -3348592616593095250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1983
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2f4bc2d59223a80800000000000000
+      internalID: -8488676867481210180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1942
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfef827ce9da5900800000000000000
+      internalID: 674090703802855344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1909
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d928b8fa6172f0ae0800000000000000
+      internalID: -1581001965795835235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_7
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1905
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25fc634a02ab9640800000000000000
+      internalID: 5087838369009693996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1896
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e82694c95f27600800000000000000
+      internalID: 464703763167481403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1898
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee80a179d20463a10800000000000000
+      internalID: 1888767658281273582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_10
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1868
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e01736897f1f810800000000000000
+      internalID: 1797489960172981770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_11
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1866
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a314b9e1d87de6ce0800000000000000
+      internalID: -1409952632216534726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_12
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5281c23411d2e9930800000000000000
+      internalID: 4151805458646833189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_13
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1837
+        width: 69
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe916afc42241d10800000000000000
+      internalID: 2095337440647683831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_14
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1691
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3902ca29ed5af370800000000000000
+      internalID: 8357095314565499199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_15
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1659
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf49a2628a539530800000000000000
+      internalID: 3860528821634158520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_16
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1543
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01949df65c6a64a60800000000000000
+      internalID: 7657991583305386256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_17
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1405
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3314d967601f58c90800000000000000
+      internalID: -7168058221828161229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1330
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed668e75f5127640800000000000000
+      internalID: 5076143874133880291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_19
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1233
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d12bc52ed5dbdda0800000000000000
+      internalID: -5918902135154859559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_20
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5bd109316de4120800000000000000
+      internalID: 2400091030945641947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1067
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccfc53b218799380800000000000000
+      internalID: -8964001561590301502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_22
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 883
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21a97b9c43304f60800000000000000
+      internalID: 8016463740838453546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_23
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 858
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7de1504de100b40800000000000000
+      internalID: 5404353448812402649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 567
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30f477f55e3e9390800000000000000
+      internalID: -7809736164869083076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_25
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 94
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe00a376a470c0ce0800000000000000
+      internalID: -1437766164897201937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_26
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 90
+        width: 150
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe52b3783bd4b280800000000000000
+      internalID: -9028350317465280774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_27
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 99
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c00ffb1c1e06000800000000000000
+      internalID: 27269820029340829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_28
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 55
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fede76bfbc2b44540800000000000000
+      internalID: 4991310876199349743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e6814ebaebb7f90800000000000000
+      internalID: -6954755554068107725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_30
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9655c28f11c34ac0800000000000000
+      internalID: -3872038913526376801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_31
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44936cf9c07932d60800000000000000
+      internalID: 7864295454794987844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_32
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fe13ded2635fb40800000000000000
+      internalID: 5473340493019606929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_33
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee1c07c258297200800000000000000
+      internalID: 178217996249734891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_34
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad22fc975867f3930800000000000000
+      internalID: 4125146099341009626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a UnHealthy Rabbit_00014_35
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c09288d662672580800000000000000
+      internalID: -8851998348714798908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Stay Still of a UnHealthy Rabbit_00014_0: -4515050204915720094
+      The Stay Still of a UnHealthy Rabbit_00014_1: 3891820564584096223
+      The Stay Still of a UnHealthy Rabbit_00014_10: 1797489960172981770
+      The Stay Still of a UnHealthy Rabbit_00014_11: -1409952632216534726
+      The Stay Still of a UnHealthy Rabbit_00014_12: 4151805458646833189
+      The Stay Still of a UnHealthy Rabbit_00014_13: 2095337440647683831
+      The Stay Still of a UnHealthy Rabbit_00014_14: 8357095314565499199
+      The Stay Still of a UnHealthy Rabbit_00014_15: 3860528821634158520
+      The Stay Still of a UnHealthy Rabbit_00014_16: 7657991583305386256
+      The Stay Still of a UnHealthy Rabbit_00014_17: -7168058221828161229
+      The Stay Still of a UnHealthy Rabbit_00014_18: 5076143874133880291
+      The Stay Still of a UnHealthy Rabbit_00014_19: -5918902135154859559
+      The Stay Still of a UnHealthy Rabbit_00014_2: -6571946016571792494
+      The Stay Still of a UnHealthy Rabbit_00014_20: 2400091030945641947
+      The Stay Still of a UnHealthy Rabbit_00014_21: -8964001561590301502
+      The Stay Still of a UnHealthy Rabbit_00014_22: 8016463740838453546
+      The Stay Still of a UnHealthy Rabbit_00014_23: 5404353448812402649
+      The Stay Still of a UnHealthy Rabbit_00014_24: -7809736164869083076
+      The Stay Still of a UnHealthy Rabbit_00014_25: -1437766164897201937
+      The Stay Still of a UnHealthy Rabbit_00014_26: -9028350317465280774
+      The Stay Still of a UnHealthy Rabbit_00014_27: 27269820029340829
+      The Stay Still of a UnHealthy Rabbit_00014_28: 4991310876199349743
+      The Stay Still of a UnHealthy Rabbit_00014_29: -6954755554068107725
+      The Stay Still of a UnHealthy Rabbit_00014_3: -3348592616593095250
+      The Stay Still of a UnHealthy Rabbit_00014_30: -3872038913526376801
+      The Stay Still of a UnHealthy Rabbit_00014_31: 7864295454794987844
+      The Stay Still of a UnHealthy Rabbit_00014_32: 5473340493019606929
+      The Stay Still of a UnHealthy Rabbit_00014_33: 178217996249734891
+      The Stay Still of a UnHealthy Rabbit_00014_34: 4125146099341009626
+      The Stay Still of a UnHealthy Rabbit_00014_35: -8851998348714798908
+      The Stay Still of a UnHealthy Rabbit_00014_4: -8488676867481210180
+      The Stay Still of a UnHealthy Rabbit_00014_5: 674090703802855344
+      The Stay Still of a UnHealthy Rabbit_00014_6: -1581001965795835235
+      The Stay Still of a UnHealthy Rabbit_00014_7: 5087838369009693996
+      The Stay Still of a UnHealthy Rabbit_00014_8: 464703763167481403
+      The Stay Still of a UnHealthy Rabbit_00014_9: 1888767658281273582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

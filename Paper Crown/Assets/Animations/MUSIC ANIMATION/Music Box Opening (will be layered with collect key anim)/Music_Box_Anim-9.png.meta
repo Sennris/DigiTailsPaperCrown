@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 8ea95fb4fea35404abf9cef6743139ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1971796000814280293
+    second: Music_Box_Anim-9_0
+  - first:
+      213: 393875448954734826
+    second: Music_Box_Anim-9_1
+  - first:
+      213: 4384946097739945191
+    second: Music_Box_Anim-9_2
+  - first:
+      213: -373608436077243592
+    second: Music_Box_Anim-9_3
+  - first:
+      213: 4435172226571024354
+    second: Music_Box_Anim-9_4
+  - first:
+      213: 7569713170827467139
+    second: Music_Box_Anim-9_5
+  - first:
+      213: 6845337590124558057
+    second: Music_Box_Anim-9_6
+  - first:
+      213: -3181057438774447987
+    second: Music_Box_Anim-9_7
+  - first:
+      213: -8003902064576450706
+    second: Music_Box_Anim-9_8
+  - first:
+      213: -4209493012006246868
+    second: Music_Box_Anim-9_9
+  - first:
+      213: -7119931132348416448
+    second: Music_Box_Anim-9_10
+  - first:
+      213: 7394935398311365061
+    second: Music_Box_Anim-9_11
+  - first:
+      213: 7217020343358733665
+    second: Music_Box_Anim-9_12
+  - first:
+      213: 7278611119407854356
+    second: Music_Box_Anim-9_13
+  - first:
+      213: 8033858710801921161
+    second: Music_Box_Anim-9_14
+  - first:
+      213: 5058501010240571139
+    second: Music_Box_Anim-9_15
+  - first:
+      213: 3535137923184434293
+    second: Music_Box_Anim-9_16
+  - first:
+      213: 4497675727821555868
+    second: Music_Box_Anim-9_17
+  - first:
+      213: 5726644105912224941
+    second: Music_Box_Anim-9_18
+  - first:
+      213: -5292303096490037655
+    second: Music_Box_Anim-9_19
+  - first:
+      213: -6104112313336751219
+    second: Music_Box_Anim-9_20
+  - first:
+      213: 7742934549611632081
+    second: Music_Box_Anim-9_21
+  - first:
+      213: -4626542158652316859
+    second: Music_Box_Anim-9_22
+  - first:
+      213: 1833057481462626136
+    second: Music_Box_Anim-9_23
+  - first:
+      213: -8257183827964301290
+    second: Music_Box_Anim-9_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_0
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 3188
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91dde9fbf5c2a4e0800000000000000
+      internalID: -1971796000814280293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_1
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 3199
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8c1bc42a3577500800000000000000
+      internalID: 393875448954734826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_2
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 3207
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e456035e357adc30800000000000000
+      internalID: 4384946097739945191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5003
+        height: 3701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d68a5b1da0daf0800000000000000
+      internalID: -373608436077243592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_4
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 3178
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b17a34a5ec8d30800000000000000
+      internalID: 4435172226571024354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_5
+      rect:
+        serializedVersion: 2
+        x: 4821
+        y: 2924
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38954c6d5060d0960800000000000000
+      internalID: 7569713170827467139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_6
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 2904
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6b00325468ffe50800000000000000
+      internalID: 6845337590124558057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_7
+      rect:
+        serializedVersion: 2
+        x: 4833
+        y: 2908
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d803cb70d1d9ad3d0800000000000000
+      internalID: -3181057438774447987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_8
+      rect:
+        serializedVersion: 2
+        x: 4838
+        y: 2898
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fa7ef8a7d6ce090800000000000000
+      internalID: -8003902064576450706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_9
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 2850
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26e0ee8860e495c0800000000000000
+      internalID: -4209493012006246868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_10
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 251
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eb02fab5ce03d90800000000000000
+      internalID: -7119931132348416448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_11
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 185
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c98f41909610a660800000000000000
+      internalID: 7394935398311365061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_12
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 258
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d3aaec3c1082460800000000000000
+      internalID: 7217020343358733665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_13
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 247
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4137386df32d20560800000000000000
+      internalID: 7278611119407854356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_14
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 217
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984b609aeeffd7f60800000000000000
+      internalID: 8033858710801921161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_15
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 231
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30708532ed7633640800000000000000
+      internalID: 5058501010240571139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_16
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 219
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c9b6f06355f0130800000000000000
+      internalID: 3535137923184434293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_17
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 219
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9843b7ae34fa6e30800000000000000
+      internalID: 4497675727821555868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_18
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 234
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac8bf72970297f40800000000000000
+      internalID: 5726644105912224941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_19
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 185
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ee202af56fd86b0800000000000000
+      internalID: -5292303096490037655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_20
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 202
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b99762136d94ba0800000000000000
+      internalID: -6104112313336751219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_21
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 175
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d553b4f2fd647b60800000000000000
+      internalID: 7742934549611632081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_22
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 173
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543e82f4b683bcfb0800000000000000
+      internalID: -4626542158652316859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_23
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 152
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857b3734114507910800000000000000
+      internalID: 1833057481462626136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Box_Anim-9_24
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 167
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61076119e07986d80800000000000000
+      internalID: -8257183827964301290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 920aa54c7e804e547adade603c90be3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Music_Box_Anim-9_0: -1971796000814280293
+      Music_Box_Anim-9_1: 393875448954734826
+      Music_Box_Anim-9_10: -7119931132348416448
+      Music_Box_Anim-9_11: 7394935398311365061
+      Music_Box_Anim-9_12: 7217020343358733665
+      Music_Box_Anim-9_13: 7278611119407854356
+      Music_Box_Anim-9_14: 8033858710801921161
+      Music_Box_Anim-9_15: 5058501010240571139
+      Music_Box_Anim-9_16: 3535137923184434293
+      Music_Box_Anim-9_17: 4497675727821555868
+      Music_Box_Anim-9_18: 5726644105912224941
+      Music_Box_Anim-9_19: -5292303096490037655
+      Music_Box_Anim-9_2: 4384946097739945191
+      Music_Box_Anim-9_20: -6104112313336751219
+      Music_Box_Anim-9_21: 7742934549611632081
+      Music_Box_Anim-9_22: -4626542158652316859
+      Music_Box_Anim-9_23: 1833057481462626136
+      Music_Box_Anim-9_24: -8257183827964301290
+      Music_Box_Anim-9_3: -373608436077243592
+      Music_Box_Anim-9_4: 4435172226571024354
+      Music_Box_Anim-9_5: 7569713170827467139
+      Music_Box_Anim-9_6: 6845337590124558057
+      Music_Box_Anim-9_7: -3181057438774447987
+      Music_Box_Anim-9_8: -8003902064576450706
+      Music_Box_Anim-9_9: -4209493012006246868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

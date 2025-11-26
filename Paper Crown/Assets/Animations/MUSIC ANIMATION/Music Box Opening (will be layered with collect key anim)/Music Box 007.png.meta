@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 12cc97664deb3c94ca717fd0b9122a61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5336072275506494610
+    second: Music Box 007_0
+  - first:
+      213: 802200219599104424
+    second: Music Box 007_1
+  - first:
+      213: -8945040784188696100
+    second: Music Box 007_2
+  - first:
+      213: -3383179853504979158
+    second: Music Box 007_3
+  - first:
+      213: 4418894902640865370
+    second: Music Box 007_4
+  - first:
+      213: 1814835907638726701
+    second: Music Box 007_5
+  - first:
+      213: 1008983451113775126
+    second: Music Box 007_6
+  - first:
+      213: 2414783392648098601
+    second: Music Box 007_7
+  - first:
+      213: -5235794480617733350
+    second: Music Box 007_8
+  - first:
+      213: 1643609213468907718
+    second: Music Box 007_9
+  - first:
+      213: 7403150119501418400
+    second: Music Box 007_10
+  - first:
+      213: -5716670112906323206
+    second: Music Box 007_11
+  - first:
+      213: -1035077096798750631
+    second: Music Box 007_12
+  - first:
+      213: -3495599465127751410
+    second: Music Box 007_13
+  - first:
+      213: -5240109331749056809
+    second: Music Box 007_14
+  - first:
+      213: 6341468421323689884
+    second: Music Box 007_15
+  - first:
+      213: 7951512752636803048
+    second: Music Box 007_16
+  - first:
+      213: -1110970014286958542
+    second: Music Box 007_17
+  - first:
+      213: -8088899815375001990
+    second: Music Box 007_18
+  - first:
+      213: 4275988852441009341
+    second: Music Box 007_19
+  - first:
+      213: -5238145868957436390
+    second: Music Box 007_20
+  - first:
+      213: -4399940678148097712
+    second: Music Box 007_21
+  - first:
+      213: -9079952528698548521
+    second: Music Box 007_22
+  - first:
+      213: 5667650659196454703
+    second: Music Box 007_23
+  - first:
+      213: 2034979701103894834
+    second: Music Box 007_24
+  - first:
+      213: 1764139621596184904
+    second: Music Box 007_25
+  - first:
+      213: -2511033369732087793
+    second: Music Box 007_26
+  - first:
+      213: -5302103385628834638
+    second: Music Box 007_27
+  - first:
+      213: 4760456040166120839
+    second: Music Box 007_28
+  - first:
+      213: 1536328054500565557
+    second: Music Box 007_29
+  - first:
+      213: -163122951006731385
+    second: Music Box 007_30
+  - first:
+      213: 4597417405539803062
+    second: Music Box 007_31
+  - first:
+      213: 5323075966759388173
+    second: Music Box 007_32
+  - first:
+      213: -1513823064720184822
+    second: Music Box 007_33
+  - first:
+      213: 4349553131519375842
+    second: Music Box 007_34
+  - first:
+      213: -5171173861919692795
+    second: Music Box 007_35
+  - first:
+      213: 1332198436253846976
+    second: Music Box 007_36
+  - first:
+      213: -441720025719986366
+    second: Music Box 007_37
+  - first:
+      213: -1990032693882265502
+    second: Music Box 007_38
+  - first:
+      213: -3239974532309196039
+    second: Music Box 007_39
+  - first:
+      213: -3684449291586192663
+    second: Music Box 007_40
+  - first:
+      213: 5039915774435571436
+    second: Music Box 007_41
+  - first:
+      213: 6047142222903495319
+    second: Music Box 007_42
+  - first:
+      213: -856801434493738624
+    second: Music Box 007_43
+  - first:
+      213: 5418121386407996489
+    second: Music Box 007_44
+  - first:
+      213: -7161012004146423136
+    second: Music Box 007_45
+  - first:
+      213: -8263452158851179649
+    second: Music Box 007_46
+  - first:
+      213: 1416221215226377962
+    second: Music Box 007_47
+  - first:
+      213: -6974457900231281642
+    second: Music Box 007_48
+  - first:
+      213: 7318127679081983719
+    second: Music Box 007_49
+  - first:
+      213: 8895677477841762892
+    second: Music Box 007_50
+  - first:
+      213: -7460556272490735134
+    second: Music Box 007_51
+  - first:
+      213: 2545784451950678187
+    second: Music Box 007_52
+  - first:
+      213: 5855593412162071861
+    second: Music Box 007_53
+  - first:
+      213: 6641456929666335408
+    second: Music Box 007_54
+  - first:
+      213: 2179258918417290251
+    second: Music Box 007_55
+  - first:
+      213: 4010445876103832819
+    second: Music Box 007_56
+  - first:
+      213: 296443467937606258
+    second: Music Box 007_57
+  - first:
+      213: -190441445184799857
+    second: Music Box 007_58
+  - first:
+      213: -3816550440108868322
+    second: Music Box 007_59
+  - first:
+      213: -7850104322267503838
+    second: Music Box 007_60
+  - first:
+      213: -178346704936989795
+    second: Music Box 007_61
+  - first:
+      213: -4170535076325038273
+    second: Music Box 007_62
+  - first:
+      213: 3011708969530474878
+    second: Music Box 007_63
+  - first:
+      213: 4803638170583328309
+    second: Music Box 007_64
+  - first:
+      213: 4715422502311837240
+    second: Music Box 007_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Music Box 007_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5003
+        height: 3701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6300a2898672f5b0800000000000000
+      internalID: -5336072275506494610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_1
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 3024
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e1f779dcf12b00800000000000000
+      internalID: 802200219599104424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_2
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 3072
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd91d05bcc4dcd380800000000000000
+      internalID: -8945040784188696100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_3
+      rect:
+        serializedVersion: 2
+        x: 4776
+        y: 3080
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fd39c19d78c01d0800000000000000
+      internalID: -3383179853504979158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_4
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 2994
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5071bb6081135d30800000000000000
+      internalID: 4418894902640865370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_5
+      rect:
+        serializedVersion: 2
+        x: 4734
+        y: 3021
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d201e6084a79f2910800000000000000
+      internalID: 1814835907638726701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_6
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 2999
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61062eb5a11a00e00800000000000000
+      internalID: 1008983451113775126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_7
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 2996
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9237d4893b8038120800000000000000
+      internalID: 2414783392648098601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_8
+      rect:
+        serializedVersion: 2
+        x: 4663
+        y: 2936
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1344d909a8b657b0800000000000000
+      internalID: -5235794480617733350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_9
+      rect:
+        serializedVersion: 2
+        x: 4714
+        y: 2980
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c89f561fd54fc610800000000000000
+      internalID: 1643609213468907718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_10
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 2931
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afc5c36fc54db660800000000000000
+      internalID: 7403150119501418400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_11
+      rect:
+        serializedVersion: 2
+        x: 4682
+        y: 2938
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa502e02de4aa0b0800000000000000
+      internalID: -5716670112906323206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_12
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 2935
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958fa225ddaa2a1f0800000000000000
+      internalID: -1035077096798750631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_13
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 2910
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01d3049ec22d7fc0800000000000000
+      internalID: -3495599465127751410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_14
+      rect:
+        serializedVersion: 2
+        x: 4663
+        y: 2914
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de43e873546747b0800000000000000
+      internalID: -5240109331749056809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_15
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 2918
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f0b5f3eeb610850800000000000000
+      internalID: 6341468421323689884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_16
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 2916
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b7e738b2795e60800000000000000
+      internalID: 7951512752636803048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_17
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 2901
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230b05e78aa0590f0800000000000000
+      internalID: -1110970014286958542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_18
+      rect:
+        serializedVersion: 2
+        x: 4646
+        y: 2897
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76a9d889747ebf80800000000000000
+      internalID: -8088899815375001990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_19
+      rect:
+        serializedVersion: 2
+        x: 4663
+        y: 2893
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcc645c43d575b30800000000000000
+      internalID: 4275988852441009341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_20
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 2907
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16bc17c51e5e47b0800000000000000
+      internalID: -5238145868957436390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_21
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 2877
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059f03ed34540f2c0800000000000000
+      internalID: -4399940678148097712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_22
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 2878
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de538568478df180800000000000000
+      internalID: -9079952528698548521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_23
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 2888
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27c96cfe3a87ae40800000000000000
+      internalID: 5667650659196454703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_24
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 2818
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231ad61a143bd3c10800000000000000
+      internalID: 2034979701103894834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_25
+      rect:
+        serializedVersion: 2
+        x: 4647
+        y: 2855
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841ce6793ab7b7810800000000000000
+      internalID: 1764139621596184904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_26
+      rect:
+        serializedVersion: 2
+        x: 4574
+        y: 2812
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0087f94474072dd0800000000000000
+      internalID: -2511033369732087793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_27
+      rect:
+        serializedVersion: 2
+        x: 4586
+        y: 2828
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4823100152b66b0800000000000000
+      internalID: -5302103385628834638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_28
+      rect:
+        serializedVersion: 2
+        x: 4581
+        y: 2792
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dd6faeb89801240800000000000000
+      internalID: 4760456040166120839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_29
+      rect:
+        serializedVersion: 2
+        x: 4594
+        y: 2799
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53229fac932225510800000000000000
+      internalID: 1536328054500565557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_30
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 2808
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783c7825a887cbdf0800000000000000
+      internalID: -163122951006731385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_31
+      rect:
+        serializedVersion: 2
+        x: 4612
+        y: 2807
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfd56da5ce4dcf30800000000000000
+      internalID: 4597417405539803062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_32
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 2787
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04cc1f836d5fd940800000000000000
+      internalID: 5323075966759388173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_33
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 2798
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a6f8671f1ddfae0800000000000000
+      internalID: -1513823064720184822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_34
+      rect:
+        serializedVersion: 2
+        x: 4566
+        y: 2787
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e976e73787bc5c30800000000000000
+      internalID: 4349553131519375842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_35
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 2778
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508ed7845cc4c38b0800000000000000
+      internalID: -5171173861919692795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_36
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 2782
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdcd336b6bec7210800000000000000
+      internalID: 1332198436253846976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_37
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2684
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247a8c81af1bed9f0800000000000000
+      internalID: -441720025719986366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_38
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 2778
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260ebbdfecbf164e0800000000000000
+      internalID: -1990032693882265502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_39
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 2756
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2e568345c4903d0800000000000000
+      internalID: -3239974532309196039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_40
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 2769
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eab01ee3e43edcc0800000000000000
+      internalID: -3684449291586192663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_41
+      rect:
+        serializedVersion: 2
+        x: 4475
+        y: 2638
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6be19b1b061f540800000000000000
+      internalID: 5039915774435571436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_42
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 2675
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79acd6600d3cbe350800000000000000
+      internalID: 6047142222903495319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_43
+      rect:
+        serializedVersion: 2
+        x: 4448
+        y: 2626
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081a4f582a70c14f0800000000000000
+      internalID: -856801434493738624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_44
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 2655
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cabcac1b8013b40800000000000000
+      internalID: 5418121386407996489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_45
+      rect:
+        serializedVersion: 2
+        x: 4422
+        y: 2578
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa5b8cd589fe9c90800000000000000
+      internalID: -7161012004146423136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_46
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 2633
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b9d3d0b02525d80800000000000000
+      internalID: -8263452158851179649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_47
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 2547
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6b0f811bd67a310800000000000000
+      internalID: 1416221215226377962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_48
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 2555
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6143cc3fd7fb53f90800000000000000
+      internalID: -6974457900231281642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_49
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 2575
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eea2acd9563f8560800000000000000
+      internalID: 7318127679081983719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_50
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 2543
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a7337e88bc37b70800000000000000
+      internalID: 8895677477841762892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_51
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 251
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9906f0997c67890800000000000000
+      internalID: -7460556272490735134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_52
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 185
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba09b3d8871745320800000000000000
+      internalID: 2545784451950678187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_53
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 258
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53da9012f2f334150800000000000000
+      internalID: 5855593412162071861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_54
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 247
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b281dbb3e13b2c50800000000000000
+      internalID: 6641456929666335408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_55
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 217
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b045dd9a0784e3e10800000000000000
+      internalID: 2179258918417290251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_56
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 231
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4691ca647f7a730800000000000000
+      internalID: 4010445876103832819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_57
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 219
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ae76273cd2d1400800000000000000
+      internalID: 296443467937606258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_58
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 219
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b7f3db38a6b5df0800000000000000
+      internalID: -190441445184799857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_59
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 234
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d33fd7893e80bc0800000000000000
+      internalID: -3816550440108868322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_60
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 185
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223ac75e5b3de0390800000000000000
+      internalID: -7850104322267503838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_61
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 202
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b8e55ed92668df0800000000000000
+      internalID: -178346704936989795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_62
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 175
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37e65cc1784f16c0800000000000000
+      internalID: -4170535076325038273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_63
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 173
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c8bfd95dbbc920800000000000000
+      internalID: 3011708969530474878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_64
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 152
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53660232773f9a240800000000000000
+      internalID: 4803638170583328309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 007_65
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 167
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e3e2058cb807140800000000000000
+      internalID: 4715422502311837240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 57f201435735a9547858e2737374ce20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Music Box 007_0: -5336072275506494610
+      Music Box 007_1: 802200219599104424
+      Music Box 007_10: 7403150119501418400
+      Music Box 007_11: -5716670112906323206
+      Music Box 007_12: -1035077096798750631
+      Music Box 007_13: -3495599465127751410
+      Music Box 007_14: -5240109331749056809
+      Music Box 007_15: 6341468421323689884
+      Music Box 007_16: 7951512752636803048
+      Music Box 007_17: -1110970014286958542
+      Music Box 007_18: -8088899815375001990
+      Music Box 007_19: 4275988852441009341
+      Music Box 007_2: -8945040784188696100
+      Music Box 007_20: -5238145868957436390
+      Music Box 007_21: -4399940678148097712
+      Music Box 007_22: -9079952528698548521
+      Music Box 007_23: 5667650659196454703
+      Music Box 007_24: 2034979701103894834
+      Music Box 007_25: 1764139621596184904
+      Music Box 007_26: -2511033369732087793
+      Music Box 007_27: -5302103385628834638
+      Music Box 007_28: 4760456040166120839
+      Music Box 007_29: 1536328054500565557
+      Music Box 007_3: -3383179853504979158
+      Music Box 007_30: -163122951006731385
+      Music Box 007_31: 4597417405539803062
+      Music Box 007_32: 5323075966759388173
+      Music Box 007_33: -1513823064720184822
+      Music Box 007_34: 4349553131519375842
+      Music Box 007_35: -5171173861919692795
+      Music Box 007_36: 1332198436253846976
+      Music Box 007_37: -441720025719986366
+      Music Box 007_38: -1990032693882265502
+      Music Box 007_39: -3239974532309196039
+      Music Box 007_4: 4418894902640865370
+      Music Box 007_40: -3684449291586192663
+      Music Box 007_41: 5039915774435571436
+      Music Box 007_42: 6047142222903495319
+      Music Box 007_43: -856801434493738624
+      Music Box 007_44: 5418121386407996489
+      Music Box 007_45: -7161012004146423136
+      Music Box 007_46: -8263452158851179649
+      Music Box 007_47: 1416221215226377962
+      Music Box 007_48: -6974457900231281642
+      Music Box 007_49: 7318127679081983719
+      Music Box 007_5: 1814835907638726701
+      Music Box 007_50: 8895677477841762892
+      Music Box 007_51: -7460556272490735134
+      Music Box 007_52: 2545784451950678187
+      Music Box 007_53: 5855593412162071861
+      Music Box 007_54: 6641456929666335408
+      Music Box 007_55: 2179258918417290251
+      Music Box 007_56: 4010445876103832819
+      Music Box 007_57: 296443467937606258
+      Music Box 007_58: -190441445184799857
+      Music Box 007_59: -3816550440108868322
+      Music Box 007_6: 1008983451113775126
+      Music Box 007_60: -7850104322267503838
+      Music Box 007_61: -178346704936989795
+      Music Box 007_62: -4170535076325038273
+      Music Box 007_63: 3011708969530474878
+      Music Box 007_64: 4803638170583328309
+      Music Box 007_65: 4715422502311837240
+      Music Box 007_7: 2414783392648098601
+      Music Box 007_8: -5235794480617733350
+      Music Box 007_9: 1643609213468907718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

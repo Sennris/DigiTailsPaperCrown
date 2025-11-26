@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 005d8a1ae257b3b4fad26be7bf8a5352
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7347350494388253733
+    second: Music_Box_Anim-2_0
+  - first:
+      213: 8399202329249342885
+    second: Music_Box_Anim-2_1
+  - first:
+      213: -4361637373562081491
+    second: Music_Box_Anim-2_2
+  - first:
+      213: -8664836996332953756
+    second: Music_Box_Anim-2_3
+  - first:
+      213: -4501324732117789146
+    second: Music_Box_Anim-2_4
+  - first:
+      213: -4430782049936508046
+    second: Music_Box_Anim-2_5
+  - first:
+      213: 5164680594665769852
+    second: Music_Box_Anim-2_6
+  - first:
+      213: 654344304371804500
+    second: Music_Box_Anim-2_7
+  - first:
+      213: 3658641958293006997
+    second: Music_Box_Anim-2_8
+  - first:
+      213: 6353869210083299106
+    second: Music_Box_Anim-2_9
+  - first:
+      213: -3066651686498871490
+    second: Music_Box_Anim-2_10
+  - first:
+      213: -124093025733450289
+    second: Music_Box_Anim-2_11
+  - first:
+      213: -1790580628157940812
+    second: Music_Box_Anim-2_12
+  - first:
+      213: -5416500253035891586
+    second: Music_Box_Anim-2_13
+  - first:
+      213: -7482926610478711515
+    second: Music_Box_Anim-2_14
+  - first:
+      213: 1159352191106050131
+    second: Music_Box_Anim-2_15
+  - first:
+      213: -312843069262555012
+    second: Music_Box_Anim-2_16
+  - first:
+      213: 3123011599411332981
+    second: Music_Box_Anim-2_17
+  - first:
+      213: -5373004300485571217
+    second: Music_Box_Anim-2_18
+  - first:
+      213: 5186214598152635297
+    second: Music_Box_Anim-2_19
+  - first:
+      213: 586191279922876363
+    second: Music_Box_Anim-2_20
+  - first:
+      213: 173298748013951099
+    second: Music_Box_Anim-2_21
+  - first:
+      213: 5524997136144043184
+    second: Music_Box_Anim-2_22
+  - first:
+      213: 3549423030100821061
+    second: Music_Box_Anim-2_23
+  - first:
+      213: -3137554304659293855
+    second: Music_Box_Anim-2_24
+  - first:
+      213: 5166678589082590653
+    second: Music_Box_Anim-2_25
+  - first:
+      213: 3595491056896589052
+    second: Music_Box_Anim-2_26
+  - first:
+      213: -2715918863243463545
+    second: Music_Box_Anim-2_27
+  - first:
+      213: -3309754176360948557
+    second: Music_Box_Anim-2_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Music_Box_Anim-2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5003
+        height: 3701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b7b5c6333b282c0800000000000000
+      internalID: -4430782049936508046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: efd0c9e158a1d9a409f4bef9ea6abc3f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Music_Box_Anim-2_0: -7347350494388253733
+      Music_Box_Anim-2_1: 8399202329249342885
+      Music_Box_Anim-2_10: -3066651686498871490
+      Music_Box_Anim-2_11: -124093025733450289
+      Music_Box_Anim-2_12: -1790580628157940812
+      Music_Box_Anim-2_13: -5416500253035891586
+      Music_Box_Anim-2_14: -7482926610478711515
+      Music_Box_Anim-2_15: 1159352191106050131
+      Music_Box_Anim-2_16: -312843069262555012
+      Music_Box_Anim-2_17: 3123011599411332981
+      Music_Box_Anim-2_18: -5373004300485571217
+      Music_Box_Anim-2_19: 5186214598152635297
+      Music_Box_Anim-2_2: -4361637373562081491
+      Music_Box_Anim-2_20: 586191279922876363
+      Music_Box_Anim-2_21: 173298748013951099
+      Music_Box_Anim-2_22: 5524997136144043184
+      Music_Box_Anim-2_23: 3549423030100821061
+      Music_Box_Anim-2_24: -3137554304659293855
+      Music_Box_Anim-2_25: 5166678589082590653
+      Music_Box_Anim-2_26: 3595491056896589052
+      Music_Box_Anim-2_27: -2715918863243463545
+      Music_Box_Anim-2_28: -3309754176360948557
+      Music_Box_Anim-2_3: -8664836996332953756
+      Music_Box_Anim-2_4: -4501324732117789146
+      Music_Box_Anim-2_5: -4430782049936508046
+      Music_Box_Anim-2_6: 5164680594665769852
+      Music_Box_Anim-2_7: 654344304371804500
+      Music_Box_Anim-2_8: 3658641958293006997
+      Music_Box_Anim-2_9: 6353869210083299106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

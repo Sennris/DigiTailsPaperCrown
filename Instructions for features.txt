@@ -1,0 +1,71 @@
+-------------------------
+Health and Spawnpoint
+
+The object dealing damage must have the tag "Damage" (or just the tag assigned in the script)
+The object dealing damage must be a collider (isTrigger set to false)
+The player must have the object reference of HealthCounter in the PlayerHealth script section
+The player must have the object reference of spawnpoint in the playermovement sec
+The health counter UI is set to a static position on the canvas, so you gotta move it around a little to make it look right
+Any other questions contact me
+
+-Robson
+--------------------------
+Screenshake
+
+Player needs to be referenced by camera shake script in camera
+Press space, or e when standing near music box (brown rectangle), to activate it
+Change intensity using the animation curve
+
+-Robson
+--------------------------
+Push
+
+Playermovement needs an object reference of push, and push needs an object reference of the object it wants to push, and also of the playermovement script.
+
+-Robson
+--------------------------
+Crouch
+
+Shift to crouch
+That's it really, but can you add functionality where if something is above you then you can't uncrouch?
+
+-Robson
+--------------------------
+Sound manager
+
+To add a sound, first import the sound into the sounds folder, then add a new sound to an existing category using the "+" icon in the sound manager script in the sound manager game object. Make sure the hierarchy is correct.
+If the sound does not belong to an existing category, open the soundmanager script and add the new category into the list at the top, following the same format, then do the above step to add the sound.
+To add the sound to an animation, make sure the animation exists, or create it yourself, then go into animator, and click the desired animation you want to add the sound to. On the side, click add behaviour and select PlaySoundEnter, (I was gonna add PlaySoundExit too but I didn't wanna add a new animation). Then select the sound category you want in the "Sound" dropdown.
+Any further questions, either contact me, or watch this video: https://www.youtube.com/watch?v=g5WT91Sn3hg&t=7s
+
+-Robson
+--------------------------
+Player attack
+
+Left click to attack
+
+-Robson
+--------------------------
+Light feature
+
+Q to increase light radius
+LCtrl + Q to decrease light radius
+Bigger light radius dims light faster, and vice versa
+
+Change this in settings, only dimRate needs to be changed
+
+
+-Robson
+--------------------------
+Knockback
+
+Values can be changed in inspector
+
+-Robson
+--------------------------
+AI pathfinding
+
+Each toy has an obstacle ray, referenced by their toy movement script
+
+-Robson
+--------------------------

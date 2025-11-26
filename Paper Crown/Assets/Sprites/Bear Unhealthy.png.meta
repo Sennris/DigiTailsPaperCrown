@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 3fca4aac468483846933f17e3989c18f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7308375203543529239
+    second: Bear Unhealthy_0
+  - first:
+      213: 3311903108578835258
+    second: Bear Unhealthy_1
+  - first:
+      213: -1703137008703250072
+    second: Bear Unhealthy_2
+  - first:
+      213: -8037225459116738896
+    second: Bear Unhealthy_3
+  - first:
+      213: 6250456021747774767
+    second: Bear Unhealthy_4
+  - first:
+      213: 7713027345941756734
+    second: Bear Unhealthy_5
+  - first:
+      213: 5430249972912668350
+    second: Bear Unhealthy_6
+  - first:
+      213: -2660514067121469522
+    second: Bear Unhealthy_7
+  - first:
+      213: -5796622475294171975
+    second: Bear Unhealthy_8
+  - first:
+      213: -1545656690336062175
+    second: Bear Unhealthy_9
+  - first:
+      213: -6296446833517157445
+    second: Bear Unhealthy_10
+  - first:
+      213: 1553191773430058380
+    second: Bear Unhealthy_11
+  - first:
+      213: 4449729075775964300
+    second: Bear Unhealthy_12
+  - first:
+      213: -315081216088012802
+    second: Bear Unhealthy_13
+  - first:
+      213: -5853039664123612743
+    second: Bear Unhealthy_14
+  - first:
+      213: -4824623581675745371
+    second: Bear Unhealthy_15
+  - first:
+      213: 218917312666477879
+    second: Bear Unhealthy_16
+  - first:
+      213: 6701740532695127172
+    second: Bear Unhealthy_17
+  - first:
+      213: -1665367416397315447
+    second: Bear Unhealthy_18
+  - first:
+      213: -4780598794083447015
+    second: Bear Unhealthy_19
+  - first:
+      213: 978246644714753227
+    second: Bear Unhealthy_20
+  - first:
+      213: -7662701358955369396
+    second: Bear Unhealthy_21
+  - first:
+      213: -8261809525708394443
+    second: Bear Unhealthy_22
+  - first:
+      213: 7503642462825534774
+    second: Bear Unhealthy_23
+  - first:
+      213: 6061807125560518031
+    second: Bear Unhealthy_24
+  - first:
+      213: -2295068408275468375
+    second: Bear Unhealthy_25
+  - first:
+      213: -7847194382330091939
+    second: Bear Unhealthy_26
+  - first:
+      213: -404193643095271822
+    second: Bear Unhealthy_27
+  - first:
+      213: -3334053875246599147
+    second: Bear Unhealthy_28
+  - first:
+      213: 193470268219807533
+    second: Bear Unhealthy_29
+  - first:
+      213: -5688689845369654174
+    second: Bear Unhealthy_30
+  - first:
+      213: -36446981597849800
+    second: Bear Unhealthy_31
+  - first:
+      213: 2181168940556487528
+    second: Bear Unhealthy_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bear Unhealthy_0
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1908
+        width: 309
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7173c74b6809c6560800000000000000
+      internalID: 7308375203543529239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_1
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1908
+        width: 311
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b7a5d745e36fd20800000000000000
+      internalID: 3311903108578835258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1837
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861eb680aed3d58e0800000000000000
+      internalID: -1703137008703250072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1837
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6fe99270a067090800000000000000
+      internalID: -8037225459116738896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 1748
+        height: 1801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f253a7ca2a41eb650800000000000000
+      internalID: 6250456021747774767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_5
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1775
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7bb9718d2a0b60800000000000000
+      internalID: 7713027345941756734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_6
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1755
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebeb805649f1c5b40800000000000000
+      internalID: 5430249972912668350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1670
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea78b4d4d84f31bd0800000000000000
+      internalID: -2660514067121469522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1682
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc9b0f02924e8fa0800000000000000
+      internalID: -5796622475294171975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1704
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12520dbed69bc8ae0800000000000000
+      internalID: -1545656690336062175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1733
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3a31507f68e98a0800000000000000
+      internalID: -6296446833517157445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1727
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d8b5350bb0e8510800000000000000
+      internalID: 1553191773430058380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_12
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1683
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c848a5cc40d90cd30800000000000000
+      internalID: 4449729075775964300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1654
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef70da7ad4b90abf0800000000000000
+      internalID: -315081216088012802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1588
+        width: 29
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1f3abaf63d5cea0800000000000000
+      internalID: -5853039664123612743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_15
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1588
+        width: 29
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af8e371a6e7b0db0800000000000000
+      internalID: -4824623581675745371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1596
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352ba0d220c90300800000000000000
+      internalID: 218917312666477879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845124d18d510d50800000000000000
+      internalID: 6701740532695127172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1401
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982c025882d63e8e0800000000000000
+      internalID: -1665367416397315447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1292
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fcef8b9b6e7adb0800000000000000
+      internalID: -4780598794083447015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1152
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccc0f0f32e639d00800000000000000
+      internalID: 978246644714753227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 8
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cef8776bd98a590800000000000000
+      internalID: -7662701358955369396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 253
+        width: 88
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53076326208285d80800000000000000
+      internalID: -8261809525708394443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 445
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d04e501b422860800000000000000
+      internalID: 7503642462825534774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_24
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 422
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8567ffb67ddf1450800000000000000
+      internalID: 6061807125560518031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 379
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff48541774620e0800000000000000
+      internalID: -2295068408275468375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 70
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5626c5194a291390800000000000000
+      internalID: -7847194382330091939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 63
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276d5dae504046af0800000000000000
+      internalID: -404193643095271822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_28
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 69
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51479ef3aaf0bb1d0800000000000000
+      internalID: -3334053875246599147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_29
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 69
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2757d31f285fa200800000000000000
+      internalID: 193470268219807533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_30
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 41
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264be51c9b6bd01b0800000000000000
+      internalID: -5688689845369654174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_31
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83799b0d9a38e7ff0800000000000000
+      internalID: -36446981597849800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Unhealthy_32
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 0
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b0cf85891154e10800000000000000
+      internalID: 2181168940556487528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bear Unhealthy_0: 7308375203543529239
+      Bear Unhealthy_1: 3311903108578835258
+      Bear Unhealthy_10: -6296446833517157445
+      Bear Unhealthy_11: 1553191773430058380
+      Bear Unhealthy_12: 4449729075775964300
+      Bear Unhealthy_13: -315081216088012802
+      Bear Unhealthy_14: -5853039664123612743
+      Bear Unhealthy_15: -4824623581675745371
+      Bear Unhealthy_16: 218917312666477879
+      Bear Unhealthy_17: 6701740532695127172
+      Bear Unhealthy_18: -1665367416397315447
+      Bear Unhealthy_19: -4780598794083447015
+      Bear Unhealthy_2: -1703137008703250072
+      Bear Unhealthy_20: 978246644714753227
+      Bear Unhealthy_21: -7662701358955369396
+      Bear Unhealthy_22: -8261809525708394443
+      Bear Unhealthy_23: 7503642462825534774
+      Bear Unhealthy_24: 6061807125560518031
+      Bear Unhealthy_25: -2295068408275468375
+      Bear Unhealthy_26: -7847194382330091939
+      Bear Unhealthy_27: -404193643095271822
+      Bear Unhealthy_28: -3334053875246599147
+      Bear Unhealthy_29: 193470268219807533
+      Bear Unhealthy_3: -8037225459116738896
+      Bear Unhealthy_30: -5688689845369654174
+      Bear Unhealthy_31: -36446981597849800
+      Bear Unhealthy_32: 2181168940556487528
+      Bear Unhealthy_4: 6250456021747774767
+      Bear Unhealthy_5: 7713027345941756734
+      Bear Unhealthy_6: 5430249972912668350
+      Bear Unhealthy_7: -2660514067121469522
+      Bear Unhealthy_8: -5796622475294171975
+      Bear Unhealthy_9: -1545656690336062175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

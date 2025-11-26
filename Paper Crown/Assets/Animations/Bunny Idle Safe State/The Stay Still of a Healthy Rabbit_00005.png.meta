@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 8fa2f89274fbe5546a58965f05cc9ce8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2296222766209617193
+    second: The Stay Still of a Healthy Rabbit_00005_0
+  - first:
+      213: -855583386213171532
+    second: The Stay Still of a Healthy Rabbit_00005_1
+  - first:
+      213: 4352560173452158809
+    second: The Stay Still of a Healthy Rabbit_00005_2
+  - first:
+      213: -7481478139189228622
+    second: The Stay Still of a Healthy Rabbit_00005_3
+  - first:
+      213: -753737397891561732
+    second: The Stay Still of a Healthy Rabbit_00005_4
+  - first:
+      213: 8462808225075581712
+    second: The Stay Still of a Healthy Rabbit_00005_5
+  - first:
+      213: 5044445136407346052
+    second: The Stay Still of a Healthy Rabbit_00005_6
+  - first:
+      213: -5614691951760822657
+    second: The Stay Still of a Healthy Rabbit_00005_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Stay Still of a Healthy Rabbit_00005_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 567
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dc611a072dddf10800000000000000
+      internalID: 2296222766209617193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a Healthy Rabbit_00005_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 74
+        width: 1587
+        height: 1752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beb90d717b5024f0800000000000000
+      internalID: -855583386213171532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a Healthy Rabbit_00005_2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 109
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e02aba66676c30800000000000000
+      internalID: 4352560173452158809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a Healthy Rabbit_00005_3
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 89
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb86ce55437c2890800000000000000
+      internalID: -7481478139189228622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a Healthy Rabbit_00005_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 98
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf60fb084df2a85f0800000000000000
+      internalID: -753737397891561732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a Healthy Rabbit_00005_5
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 53
+        width: 319
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01352e92e3fe17570800000000000000
+      internalID: 8462808225075581712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a Healthy Rabbit_00005_6
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 91
+        width: 69
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bb18cff18710640800000000000000
+      internalID: 5044445136407346052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Stay Still of a Healthy Rabbit_00005_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 55
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e2d04fa6b9412b0800000000000000
+      internalID: -5614691951760822657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Stay Still of a Healthy Rabbit_00005_0: 2296222766209617193
+      The Stay Still of a Healthy Rabbit_00005_1: -855583386213171532
+      The Stay Still of a Healthy Rabbit_00005_2: 4352560173452158809
+      The Stay Still of a Healthy Rabbit_00005_3: -7481478139189228622
+      The Stay Still of a Healthy Rabbit_00005_4: -753737397891561732
+      The Stay Still of a Healthy Rabbit_00005_5: 8462808225075581712
+      The Stay Still of a Healthy Rabbit_00005_6: 5044445136407346052
+      The Stay Still of a Healthy Rabbit_00005_7: -5614691951760822657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

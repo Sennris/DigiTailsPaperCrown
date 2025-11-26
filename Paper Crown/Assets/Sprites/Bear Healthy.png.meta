@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 13c544e8e73dbb24f8b6121d41f6956a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1380917040837085519
+    second: Bear Healthy_0
+  - first:
+      213: -3776787065433096730
+    second: Bear Healthy_1
+  - first:
+      213: 8647295318111166953
+    second: Bear Healthy_2
+  - first:
+      213: -7155615466754952711
+    second: Bear Healthy_3
+  - first:
+      213: 7427134228230300352
+    second: Bear Healthy_4
+  - first:
+      213: 8246413751877675828
+    second: Bear Healthy_5
+  - first:
+      213: 5912726083376043393
+    second: Bear Healthy_6
+  - first:
+      213: -7787738188536125986
+    second: Bear Healthy_7
+  - first:
+      213: 7539580094920943998
+    second: Bear Healthy_8
+  - first:
+      213: -5063966475984843120
+    second: Bear Healthy_9
+  - first:
+      213: -2756236591836547059
+    second: Bear Healthy_10
+  - first:
+      213: -2293694207631799097
+    second: Bear Healthy_11
+  - first:
+      213: 2973112657363148162
+    second: Bear Healthy_12
+  - first:
+      213: -2024268646501965192
+    second: Bear Healthy_13
+  - first:
+      213: -1331567755943885191
+    second: Bear Healthy_14
+  - first:
+      213: -6638364588140728396
+    second: Bear Healthy_15
+  - first:
+      213: 6970315277715260235
+    second: Bear Healthy_16
+  - first:
+      213: -8946501388208172980
+    second: Bear Healthy_17
+  - first:
+      213: 7544650669452129378
+    second: Bear Healthy_18
+  - first:
+      213: 752359079782957885
+    second: Bear Healthy_19
+  - first:
+      213: 8086925559851145753
+    second: Bear Healthy_20
+  - first:
+      213: -526508698375652930
+    second: Bear Healthy_21
+  - first:
+      213: 6202309053622887690
+    second: Bear Healthy_22
+  - first:
+      213: 8977419913742504099
+    second: Bear Healthy_23
+  - first:
+      213: -8798669723056132169
+    second: Bear Healthy_24
+  - first:
+      213: -7474799292673457906
+    second: Bear Healthy_25
+  - first:
+      213: -2184613887074310477
+    second: Bear Healthy_26
+  - first:
+      213: -6673532581075512332
+    second: Bear Healthy_27
+  - first:
+      213: -9129236785891386056
+    second: Bear Healthy_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bear Healthy_0
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1908
+        width: 309
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b63f9c844ff5dce0800000000000000
+      internalID: -1380917040837085519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_1
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1908
+        width: 311
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf19c9c28269bc0800000000000000
+      internalID: -3776787065433096730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1837
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e12ae7c64d510870800000000000000
+      internalID: 8647295318111166953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_3
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1875
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1b7c225a522bc90800000000000000
+      internalID: -7155615466754952711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_4
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1837
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2efccda3b721760800000000000000
+      internalID: 7427134228230300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1670
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba09fad95217270800000000000000
+      internalID: 8246413751877675828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1682
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185d0ddbb093e0250800000000000000
+      internalID: 5912726083376043393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 1748
+        height: 1801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed56f84f0656ce390800000000000000
+      internalID: -7787738188536125986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1725
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e796e516628f1a860800000000000000
+      internalID: 7539580094920943998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1704
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ecf64f15d29b9b0800000000000000
+      internalID: -5063966475984843120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1733
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0836a24c61efb9d0800000000000000
+      internalID: -2756236591836547059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1727
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc4cba45492b20e0800000000000000
+      internalID: -2293694207631799097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_12
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1683
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d195ba53e924920800000000000000
+      internalID: 2973112657363148162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1596
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8722a4b146a58e3e0800000000000000
+      internalID: -2024268646501965192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1588
+        width: 29
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976c9905e22558de0800000000000000
+      internalID: -1331567755943885191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_15
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1588
+        width: 29
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfe652249acfd3a0800000000000000
+      internalID: -6638364588140728396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4342b490d88bb060800000000000000
+      internalID: 6970315277715260235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1401
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4010555364a7d380800000000000000
+      internalID: -8946501388208172980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1292
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2647b138fcbf3b860800000000000000
+      internalID: 7544650669452129378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1152
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33c00ec89ae07a00800000000000000
+      internalID: 752359079782957885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 8
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a54f743f78a3070800000000000000
+      internalID: 8086925559851145753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 253
+        width: 88
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb97a2ed02771b8f0800000000000000
+      internalID: -526508698375652930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 445
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05a1681937031650800000000000000
+      internalID: 6202309053622887690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_23
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 422
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0d32ed8d3369c70800000000000000
+      internalID: 8977419913742504099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 70
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf21451188d4e580800000000000000
+      internalID: -8798669723056132169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_25
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 69
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e018bd085ad244890800000000000000
+      internalID: -7474799292673457906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_26
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 69
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6ec898e31bea1e0800000000000000
+      internalID: -2184613887074310477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_27
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f39ff3b979d263a0800000000000000
+      internalID: -6673532581075512332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Healthy_28
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 0
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dd382138f6e4180800000000000000
+      internalID: -9129236785891386056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bear Healthy_0: -1380917040837085519
+      Bear Healthy_1: -3776787065433096730
+      Bear Healthy_10: -2756236591836547059
+      Bear Healthy_11: -2293694207631799097
+      Bear Healthy_12: 2973112657363148162
+      Bear Healthy_13: -2024268646501965192
+      Bear Healthy_14: -1331567755943885191
+      Bear Healthy_15: -6638364588140728396
+      Bear Healthy_16: 6970315277715260235
+      Bear Healthy_17: -8946501388208172980
+      Bear Healthy_18: 7544650669452129378
+      Bear Healthy_19: 752359079782957885
+      Bear Healthy_2: 8647295318111166953
+      Bear Healthy_20: 8086925559851145753
+      Bear Healthy_21: -526508698375652930
+      Bear Healthy_22: 6202309053622887690
+      Bear Healthy_23: 8977419913742504099
+      Bear Healthy_24: -8798669723056132169
+      Bear Healthy_25: -7474799292673457906
+      Bear Healthy_26: -2184613887074310477
+      Bear Healthy_27: -6673532581075512332
+      Bear Healthy_28: -9129236785891386056
+      Bear Healthy_3: -7155615466754952711
+      Bear Healthy_4: 7427134228230300352
+      Bear Healthy_5: 8246413751877675828
+      Bear Healthy_6: 5912726083376043393
+      Bear Healthy_7: -7787738188536125986
+      Bear Healthy_8: 7539580094920943998
+      Bear Healthy_9: -5063966475984843120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

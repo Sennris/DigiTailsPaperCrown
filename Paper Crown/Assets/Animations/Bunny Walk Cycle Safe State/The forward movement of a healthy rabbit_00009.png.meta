@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 9a980e07dd0d06749a2e6f4dfe2d9f1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2097464960090564454
+    second: The forward movement of a healthy rabbit_00009_0
+  - first:
+      213: 2892429604728655676
+    second: The forward movement of a healthy rabbit_00009_1
+  - first:
+      213: -1602014902811099030
+    second: The forward movement of a healthy rabbit_00009_2
+  - first:
+      213: 2952880736358871944
+    second: The forward movement of a healthy rabbit_00009_3
+  - first:
+      213: -6573561446017166404
+    second: The forward movement of a healthy rabbit_00009_4
+  - first:
+      213: -2099840071443328791
+    second: The forward movement of a healthy rabbit_00009_5
+  - first:
+      213: 741984555263106860
+    second: The forward movement of a healthy rabbit_00009_6
+  - first:
+      213: 3265545609209340427
+    second: The forward movement of a healthy rabbit_00009_7
+  - first:
+      213: 1120740361082221559
+    second: The forward movement of a healthy rabbit_00009_8
+  - first:
+      213: -974640805931182360
+    second: The forward movement of a healthy rabbit_00009_9
+  - first:
+      213: -702392649796353105
+    second: The forward movement of a healthy rabbit_00009_10
+  - first:
+      213: -839150550875486398
+    second: The forward movement of a healthy rabbit_00009_11
+  - first:
+      213: 2507269142782659470
+    second: The forward movement of a healthy rabbit_00009_12
+  - first:
+      213: -4010612281213187340
+    second: The forward movement of a healthy rabbit_00009_13
+  - first:
+      213: 9206589167848959521
+    second: The forward movement of a healthy rabbit_00009_14
+  - first:
+      213: -5227830042527090254
+    second: The forward movement of a healthy rabbit_00009_15
+  - first:
+      213: 8205973504736665011
+    second: The forward movement of a healthy rabbit_00009_16
+  - first:
+      213: 2280951430046500502
+    second: The forward movement of a healthy rabbit_00009_17
+  - first:
+      213: 587661186856075238
+    second: The forward movement of a healthy rabbit_00009_18
+  - first:
+      213: -7145207867381324331
+    second: The forward movement of a healthy rabbit_00009_19
+  - first:
+      213: -6153265444659454061
+    second: The forward movement of a healthy rabbit_00009_20
+  - first:
+      213: 5640510475638230978
+    second: The forward movement of a healthy rabbit_00009_21
+  - first:
+      213: -417118598835070175
+    second: The forward movement of a healthy rabbit_00009_22
+  - first:
+      213: 5676725469832492875
+    second: The forward movement of a healthy rabbit_00009_23
+  - first:
+      213: 1793935650773822566
+    second: The forward movement of a healthy rabbit_00009_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The forward movement of a healthy rabbit_00009_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9819fc4bbe44e2e0800000000000000
+      internalID: -2097464960090564454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b9b6df64d386df49815442535663191
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The forward movement of a healthy rabbit_00009_0: -2097464960090564454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
