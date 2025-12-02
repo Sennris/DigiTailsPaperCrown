@@ -2946,8 +2946,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c608466f49e7bfb47a93787e52fca9e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  audioSource: {fileID: 408972315}
   soundList:
-    categories: []
+    categories:
+    - name: playermovement
+      audioClipList:
+      - {fileID: 8300000, guid: d0febeac6b022bc4f89fc90046ba7758, type: 3}
+      - {fileID: 8300000, guid: e1813a6223402d040a705153aa0c8707, type: 3}
+    - name: playerjumping
+      audioClipList:
+      - {fileID: 8300000, guid: 87404aaed8c445d458d9a8691779c21e, type: 3}
+      - {fileID: 8300000, guid: 7f62d571963eea0418f269bbe09e6ba6, type: 3}
 --- !u!1 &424812875
 GameObject:
   m_ObjectHideFlags: 0
