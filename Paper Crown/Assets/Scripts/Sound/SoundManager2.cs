@@ -24,7 +24,7 @@ public class SoundManager2 : MonoBehaviour
         Debug.Log(soundList.categories[0].name);
         Debug.Log(soundList.categories[0].audioClipList);
         Debug.Log(soundDictionary);
-        for (int i = 0; i < 2; i++)
+        for (int i = 0; i < soundList.categories.Length; i++)
         {
             soundDictionary.Add(soundList.categories[i].name, soundList.categories[i].audioClipList);
         }
@@ -34,7 +34,7 @@ public class SoundManager2 : MonoBehaviour
     
     public void PlaySound2(string category, float volume = 1)
     {
-        randomIndex = UnityEngine.Random.Range(0, soundDictionary.Count);
+        randomIndex = UnityEngine.Random.Range(0, soundDictionary[category].Length);
         randomClip = soundDictionary[category][randomIndex];
         audioSource.PlayOneShot(randomClip);
     }
