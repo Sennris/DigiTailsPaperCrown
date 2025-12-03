@@ -80,7 +80,7 @@ public class ObjectTextScript : MonoBehaviour
 
             if (gameObject.name == "ClosedChest" && !Collectible.hasKey)
             {
-                SoundManager.PlaySound(SoundType.TOYBOX_LOCKED,0.5f);
+                SoundManager.PlaySound("Toybox_Locked",0.5f);
             }
         }
 

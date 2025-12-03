@@ -4,21 +4,21 @@ public class PlaySounds : MonoBehaviour
 {
     public void PlayFootstepSound()
     {
-        SoundManager.PlaySound(SoundType.PLAYER_FOOTSTEPS, 0.2f);
+        SoundManager.PlaySound("Player_Footsteps", 0.2f);
     }
 
     public void PlayPushSound()
     {
-        SoundManager.PlaySound(SoundType.PUSH, 0.3f);
+        SoundManager.PlaySound("Push", 0.3f);
     }
 
     public void PlaySneakSound()
     {
-        SoundManager.PlaySound(SoundType.PLAYER_SNEAK);
+        SoundManager.PlaySound("Player_Sneak");
     }
 
     public void PlayClosetOpenSound()
     {
-        SoundManager.PlaySound(SoundType.CLOSET_CREAK, 2);
+        SoundManager.PlaySound("Closet_Creak", 2);
     }
 }

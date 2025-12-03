@@ -32,8 +32,8 @@ public class Attack : MonoBehaviour
             {
                 if (hitCollider.CompareTag("Toy"))
                 {
-                    SoundManager.PlaySound(SoundType.PLAYER_HURT);
-                    SoundManager.PlaySound(SoundType.TOY_HURT);
+                    SoundManager.PlaySound("Player_Hurt");
+                    SoundManager.PlaySound("Toy_Hurt");
                     //GetComponentInChildren<CinemachineImpulseSource>().GenerateImpulse();
 
                     var toyHealth = hitCollider.GetComponentInParent<ToyHealth>();

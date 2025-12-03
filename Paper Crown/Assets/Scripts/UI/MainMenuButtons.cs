@@ -8,18 +8,18 @@ public class MainMenuButtons : MonoBehaviour
     public void StartNewGame()
     {
         SceneManager.LoadSceneAsync(1);
-        SoundManager.PlaySound(SoundType.SCRIBBLE);
+        SoundManager.PlaySound("Scribble");
     }
 
     public void OpenSettings()
     {
         pauseMenu.Pause();
-        SoundManager.PlaySound(SoundType.SCRIBBLE);
+        SoundManager.PlaySound("Scribble");
     }
 
     public void CloseSettings()
     {
         pauseMenu.Resume();
-        SoundManager.PlaySound(SoundType.SCRIBBLE);
+        SoundManager.PlaySound("Scribble");
     }
 }

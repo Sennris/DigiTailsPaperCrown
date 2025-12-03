@@ -1,114 +1,111 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
-using System;
 using UnityEngine.UI;
+using static UnityEditor.ShaderGraph.Internal.KeywordDependentCollection;
 
-public enum SoundType
-{
-    PLAYER_FOOTSTEPS,
-    MUSICBOX,
-    PLAYER_JUMP,
-    PUSH,
-    TOY_BANG,
-    PLAYER_HURT,
-    BODY_IMPACT,
-    MUSICBOX_OPEN,
-    TOYBOX_OPEN,
-    PLAYER_SNEAK,
-    ELEPHANT_SCREAM,
-    CLOSET_CREAK,
-    TOYBOX_LOCKED,
-    KEY_JINGLE,
-    TOY_HURT,
-    LANTERN_JINGLE,
-    SCRIBBLE
-}
+// Finally finished making this new Sound Manager, now you only have to add the category to the
+// inspector and not the script itself to make a new category.
+// Robson - 3/12/2025
 
-[RequireComponent(typeof(AudioSource)), ExecuteInEditMode]
 public class SoundManager : MonoBehaviour
 {
-    [SerializeField] private SoundList[] soundList;
+    public AudioSource audioSource;
+    private int randomIndex;
+    private AudioClip randomClip;
+    public Slider volumeSlider;
     private static SoundManager instance;
-    private AudioSource audioSource;
-    [SerializeField] Slider volumeSlider;
 
-    private void Awake()
-    {
-        //instance = this;
-    }
+    // Making the "dictionary" visible in inspector
+    [SerializeField]
+    private SoundListItem[] categories;
 
-    private void Start()
+    // Declaring the true dictionary
+    private Dictionary<string, AudioClip[]> soundDictionary;
+
+    void Start()
     {
+        // Allows for static variables or something
         instance = this;
-        audioSource = GetComponent<AudioSource>();
-        if(!PlayerPrefs.HasKey("masterVolume"))
+
+        // Creating the dictionary and copying all of soundList into it
+        soundDictionary = new Dictionary<string, AudioClip[]>();
+        for (int i = 0; i < categories.Length; i++)
+        {
+            soundDictionary.Add(categories[i].name, categories[i].audioClipList);
+        }
+
+        // Loading volume preferences if the player has any, or setting it to 1 if they don't
+        if (!PlayerPrefs.HasKey("masterVolume"))
         {
             PlayerPrefs.SetFloat("masterVolume", 1);
             Load();
         }
-
         else
         {
             Load();
         }
     }
+    
+    // Play a random audio clip from a given category
+    public static void PlaySound(string category, float volume = 1)
+    {
+        instance.randomIndex = UnityEngine.Random.Range(0, instance.soundDictionary[category].Length);
+        instance.randomClip = instance.soundDictionary[category][instance.randomIndex];
+        instance.audioSource.PlayOneShot(instance.randomClip);
+    }
 
+    // Calls a coroutine to delay a sound
+    public static void DelayPlaySound(string category, float volume = 1f, float DelayTime = 1f)
+    {
+        instance.StartCoroutine(instance.DelaySound(category, volume, DelayTime));
+    }
+
+    // Calls the PlaySound function after a specified amount of time
+    public IEnumerator DelaySound(string category, float volume, float DelayTime)
+    {
+        yield return new WaitForSeconds(DelayTime);
+        PlaySound(category, volume);
+    }
+
+    // Called every time the volume slider is updated
     public void ChangeVolume()
     {
         audioSource.volume = volumeSlider.value;
         Save();
     }
 
-    public static void PlaySound(SoundType sound, float volume = 1)
-    {
-        //Debug.Log($"{sound}, {volume},{instance.audioSource.volume}");
-        AudioClip[] clips = instance.soundList[(int)sound].Sounds;
-        var index = UnityEngine.Random.Range(0, clips.Length);
-        Debug.Log(instance.soundList.Length);
-        Debug.Log(index);
-        Debug.Log(clips.Length);
-        AudioClip randomClip = clips[index];
-        instance.audioSource.PlayOneShot(randomClip, volume);
-    }
-
-#if UNITY_EDITOR
-    private void OnEnable()
-    {
-        string[] names = Enum.GetNames(typeof(SoundType));
-        Array.Resize(ref soundList, names.Length);
-        for (int i = 0; i < soundList.Length; i++)
-            soundList[i].name = names[i];
-    }
-#endif
-
+    // Saves the volume preferences for the player
     private void Save()
     {
         PlayerPrefs.SetFloat("masterVolume", volumeSlider.value);
     }
 
+    // Loads the volume preferences for the player
     private void Load()
     {
         volumeSlider.value = PlayerPrefs.GetFloat("masterVolume");
         audioSource.volume = PlayerPrefs.GetFloat("masterVolume");
     }
-
-    public static void DelayPlaySound(SoundType sound, float volume = 1f, float DelayTime = 1f)
-    {
-        instance.StartCoroutine(instance.DelaySound(sound, volume, DelayTime));
-    }
-
-    public IEnumerator DelaySound(SoundType sound, float volume, float DelayTime)
-    {
-        yield return new WaitForSeconds(DelayTime);
-        PlaySound(sound, volume);
-    }
 }
 
+// Defining the SoundList class
 [Serializable]
-public struct SoundList
+public class SoundList
 {
-    public AudioClip[] Sounds { get => sounds; }
-    [HideInInspector] public string name;
-    [SerializeField] private AudioClip[] sounds;
+    [SerializeField]
+    public SoundListItem[] categories;
+}
+
+// Defining the items of the SoundList class
+[Serializable]
+public class SoundListItem
+{
+    [SerializeField]
+    public string name;
+    [SerializeField]
+    public AudioClip[] audioClipList;
 }

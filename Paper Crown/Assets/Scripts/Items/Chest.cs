@@ -53,7 +53,7 @@ public class Chest : MonoBehaviour
 
                 canEscape = true;
                 chestAnimator.SetTrigger("Opened");
-                SoundManager.PlaySound(SoundType.TOYBOX_OPEN, 0.6f);
+                SoundManager.PlaySound("Toybox_Open", 0.6f);
 
                 cutscene.StartCutscene("ToyEscapeAnimatic");
                 //StartCoroutine(RepeatShake());
@@ -80,7 +80,7 @@ public class Chest : MonoBehaviour
     {
         for (int i = 0; i < shakeTimes; i++)
         {
-            SoundManager.PlaySound(SoundType.TOY_BANG);
+            SoundManager.PlaySound("Toy_Bang");
 
             GetComponentInChildren<CinemachineImpulseSource>().GenerateImpulse();
             yield return new WaitForSeconds(shakeLength);

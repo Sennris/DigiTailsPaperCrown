@@ -40,7 +40,7 @@ public class Lantern : MonoBehaviour
 
     public IEnumerator Activate()
     {
-        SoundManager.PlaySound(SoundType.LANTERN_JINGLE, 0.3f);
+        SoundManager.PlaySound("Lantern_Jingle", 0.3f);
         animator.SetTrigger("LanternOn");
         stopParticles.DisableParticles(lanternSprite.gameObject);
         myLight.intensity = .5f;

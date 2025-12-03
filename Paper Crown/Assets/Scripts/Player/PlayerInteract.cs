@@ -28,8 +28,8 @@ public class PlayerInteract : MonoBehaviour
             animator.SetTrigger("Opened");
             canPlay = false;
             Instantiate(itemKey, spawner.transform.position, Quaternion.identity);
-            SoundManager.PlaySound(SoundType.MUSICBOX_OPEN);
-            SoundManager.DelayPlaySound(SoundType.MUSICBOX, 1);
+            SoundManager.PlaySound("Musicbox_Open");
+            SoundManager.DelayPlaySound("Musicbox", 1);
 
 
             StartCoroutine(RepeatShake());
@@ -41,7 +41,7 @@ public class PlayerInteract : MonoBehaviour
     {
         for (int i = 0; i < shakeTimes; i++)
         {
-            SoundManager.PlaySound(SoundType.TOY_BANG);
+            SoundManager.PlaySound("Toy_Bang");
 
             GetComponentInChildren<CinemachineImpulseSource>().GenerateImpulse();
 

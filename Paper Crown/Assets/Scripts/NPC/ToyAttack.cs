@@ -38,7 +38,7 @@ public class ToyAttack : MonoBehaviour
             }
 
 
-            SoundManager.PlaySound(SoundType.PLAYER_HURT);
+            SoundManager.PlaySound("Player_Hurt");
 
 
             playerHealth.health -= 1;

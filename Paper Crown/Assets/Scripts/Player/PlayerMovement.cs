@@ -144,7 +144,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if(collision.gameObject.layer == 7)
         {
-            SoundManager.PlaySound(SoundType.PLAYER_JUMP);
+            SoundManager.PlaySound("Player_Jump");
             isJumping = false;
             playerAnimator.SetBool("isJumping", false);
         }

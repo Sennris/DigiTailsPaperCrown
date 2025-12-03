@@ -2724,7 +2724,6 @@ GameObject:
   m_Component:
   - component: {fileID: 408972313}
   - component: {fileID: 408972315}
-  - component: {fileID: 408972316}
   - component: {fileID: 408972314}
   - component: {fileID: 408972317}
   m_Layer: 0
@@ -2858,82 +2857,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &408972316
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 408972312}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 340d4cb446496504f844f44cfdcae84f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  soundList:
-  - name: PLAYER_FOOTSTEPS
-    sounds:
-    - {fileID: 8300000, guid: e1813a6223402d040a705153aa0c8707, type: 3}
-    - {fileID: 8300000, guid: 645d822ecaba37449bfc55c322c34543, type: 3}
-    - {fileID: 8300000, guid: d2737ae4958e8434e99ff6427d1158dd, type: 3}
-    - {fileID: 8300000, guid: 420dce2e75210264fbd8b24b5436426a, type: 3}
-    - {fileID: 8300000, guid: 5f250490fa686484b8c7edd8cbab0775, type: 3}
-    - {fileID: 8300000, guid: 63eca805954501748a9ed6b9efb7fef8, type: 3}
-    - {fileID: 8300000, guid: a67f56c74088a954784040a2589f2bf0, type: 3}
-  - name: MUSICBOX
-    sounds:
-    - {fileID: 8300000, guid: afd5a9fec0952474fa4eef9455b127c8, type: 3}
-  - name: PLAYER_JUMP
-    sounds:
-    - {fileID: 8300000, guid: 7f62d571963eea0418f269bbe09e6ba6, type: 3}
-  - name: PUSH
-    sounds:
-    - {fileID: 8300000, guid: 3f0c1d18cba552a43b75eed6db41dcef, type: 3}
-  - name: TOY_BANG
-    sounds:
-    - {fileID: 8300000, guid: f0b3ed3d0e8e04d4a8db74a8f602dc63, type: 3}
-    - {fileID: 8300000, guid: 30dc3a6d1e34e0541a45c7f070d6b61d, type: 3}
-    - {fileID: 8300000, guid: be4975cc99ef8eb4abadcf00d84f3f91, type: 3}
-    - {fileID: 8300000, guid: 341552aabd4f05946a35b9c5f74a1d3c, type: 3}
-  - name: PLAYER_HURT
-    sounds:
-    - {fileID: 8300000, guid: 3266973dcb019e049bb12405c2439aa6, type: 3}
-    - {fileID: 8300000, guid: c27f06c1a624a3a4d9dfef7dab03a7c1, type: 3}
-  - name: BODY_IMPACT
-    sounds: []
-  - name: MUSICBOX_OPEN
-    sounds:
-    - {fileID: 8300000, guid: 523e10ee3768717448de268e24a83b51, type: 3}
-  - name: TOYBOX_OPEN
-    sounds:
-    - {fileID: 8300000, guid: 67a16b1d00cd22c4cb160dec2a36cb24, type: 3}
-    - {fileID: 8300000, guid: 036065758f392a94dbbe0528230bbb31, type: 3}
-  - name: PLAYER_SNEAK
-    sounds:
-    - {fileID: 8300000, guid: 7311ccf665f9dca4589520ae82b48a83, type: 3}
-  - name: ELEPHANT_SCREAM
-    sounds: []
-  - name: CLOSET_CREAK
-    sounds:
-    - {fileID: 8300000, guid: 10ded0eaa8b3ff443818c117821c4675, type: 3}
-  - name: TOYBOX_LOCKED
-    sounds:
-    - {fileID: 8300000, guid: baf3fd793efe45b4e90aca87705e13e3, type: 3}
-  - name: KEY_JINGLE
-    sounds:
-    - {fileID: 8300000, guid: 1c91daadb3a940246bda14f5159fdc2e, type: 3}
-  - name: TOY_HURT
-    sounds:
-    - {fileID: 8300000, guid: d7c86fd936392474290d9e71d560b1d6, type: 3}
-    - {fileID: 8300000, guid: 3f2861905fcf85f4f9baa2400dc28c3d, type: 3}
-    - {fileID: 8300000, guid: 8122caef59bbc804c908ecbd07c7b641, type: 3}
-    - {fileID: 8300000, guid: c75be4e9a5916f24b9ddedac4e99da68, type: 3}
-  - name: LANTERN_JINGLE
-    sounds:
-    - {fileID: 8300000, guid: fa25e654c914f0743bdd0165c4bf2451, type: 3}
-  - name: SCRIBBLE
-    sounds: []
-  volumeSlider: {fileID: 2087960958}
 --- !u!114 &408972317
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2947,16 +2870,66 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioSource: {fileID: 408972315}
-  soundList:
-    categories:
-    - name: playermovement
-      audioClipList:
-      - {fileID: 8300000, guid: d0febeac6b022bc4f89fc90046ba7758, type: 3}
-      - {fileID: 8300000, guid: e1813a6223402d040a705153aa0c8707, type: 3}
-    - name: playerjumping
-      audioClipList:
-      - {fileID: 8300000, guid: 87404aaed8c445d458d9a8691779c21e, type: 3}
-      - {fileID: 8300000, guid: 7f62d571963eea0418f269bbe09e6ba6, type: 3}
+  volumeSlider: {fileID: 2087960958}
+  categories:
+  - name: Player_Footsteps
+    audioClipList:
+    - {fileID: 8300000, guid: c02b77c7958368048aa1d60ef0790f3e, type: 3}
+    - {fileID: 8300000, guid: 645d822ecaba37449bfc55c322c34543, type: 3}
+    - {fileID: 8300000, guid: d2737ae4958e8434e99ff6427d1158dd, type: 3}
+    - {fileID: 8300000, guid: 420dce2e75210264fbd8b24b5436426a, type: 3}
+    - {fileID: 8300000, guid: 5f250490fa686484b8c7edd8cbab0775, type: 3}
+    - {fileID: 8300000, guid: 63eca805954501748a9ed6b9efb7fef8, type: 3}
+    - {fileID: 8300000, guid: a67f56c74088a954784040a2589f2bf0, type: 3}
+  - name: Player_Jump
+    audioClipList:
+    - {fileID: 8300000, guid: 7f62d571963eea0418f269bbe09e6ba6, type: 3}
+  - name: Player_Sneak
+    audioClipList:
+    - {fileID: 8300000, guid: 7311ccf665f9dca4589520ae82b48a83, type: 3}
+  - name: Player_Hurt
+    audioClipList:
+    - {fileID: 8300000, guid: 3266973dcb019e049bb12405c2439aa6, type: 3}
+    - {fileID: 8300000, guid: c27f06c1a624a3a4d9dfef7dab03a7c1, type: 3}
+  - name: Push
+    audioClipList:
+    - {fileID: 8300000, guid: 3f0c1d18cba552a43b75eed6db41dcef, type: 3}
+  - name: Toy_Hurt
+    audioClipList:
+    - {fileID: 8300000, guid: d7c86fd936392474290d9e71d560b1d6, type: 3}
+    - {fileID: 8300000, guid: 3f2861905fcf85f4f9baa2400dc28c3d, type: 3}
+    - {fileID: 8300000, guid: 8122caef59bbc804c908ecbd07c7b641, type: 3}
+    - {fileID: 8300000, guid: c75be4e9a5916f24b9ddedac4e99da68, type: 3}
+  - name: Toy_Bang
+    audioClipList:
+    - {fileID: 8300000, guid: f0b3ed3d0e8e04d4a8db74a8f602dc63, type: 3}
+    - {fileID: 8300000, guid: 30dc3a6d1e34e0541a45c7f070d6b61d, type: 3}
+    - {fileID: 8300000, guid: be4975cc99ef8eb4abadcf00d84f3f91, type: 3}
+    - {fileID: 8300000, guid: 341552aabd4f05946a35b9c5f74a1d3c, type: 3}
+  - name: Toybox_Open
+    audioClipList:
+    - {fileID: 8300000, guid: 67a16b1d00cd22c4cb160dec2a36cb24, type: 3}
+  - name: Toybox_Locked
+    audioClipList:
+    - {fileID: 8300000, guid: baf3fd793efe45b4e90aca87705e13e3, type: 3}
+  - name: Musicbox
+    audioClipList:
+    - {fileID: 8300000, guid: afd5a9fec0952474fa4eef9455b127c8, type: 3}
+  - name: Closet_Creak
+    audioClipList:
+    - {fileID: 8300000, guid: 10ded0eaa8b3ff443818c117821c4675, type: 3}
+  - name: Musicbox_Open
+    audioClipList:
+    - {fileID: 8300000, guid: 523e10ee3768717448de268e24a83b51, type: 3}
+  - name: Key_Jingle
+    audioClipList:
+    - {fileID: 8300000, guid: 1c91daadb3a940246bda14f5159fdc2e, type: 3}
+  - name: Lantern_Jingle
+    audioClipList:
+    - {fileID: 8300000, guid: fa25e654c914f0743bdd0165c4bf2451, type: 3}
+  - name: Scribble
+    audioClipList:
+    - {fileID: 8300000, guid: 4266137dff3ec0b4a80adff759258a49, type: 3}
 --- !u!1 &424812875
 GameObject:
   m_ObjectHideFlags: 0
@@ -37863,7 +37836,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: -30689217786810772, guid: 9a7b7231a1c6a9a40951e28e3dc823b4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -39264,7 +39237,7 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 408972316}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: SoundManager, Assembly-CSharp
         m_MethodName: ChangeVolume
         m_Mode: 1

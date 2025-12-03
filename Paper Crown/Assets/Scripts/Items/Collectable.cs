@@ -25,13 +25,11 @@ public class Collectible : MonoBehaviour
 
             else
             {
-                SoundManager.PlaySound(SoundType.KEY_JINGLE);
+                SoundManager.PlaySound("Key_Jingle");
                 hasKey = true;
             }
             // Optional: play a sound or add score here
             // SoundManager.PlaySound(SoundType.KEYPICKUP);
-            Debug.Log("this code runs too");
-            Debug.Log($"HIIIIIIIIIII{gameObject}");
             Destroy(gameObject); // remove key from scene
         }
     }

@@ -33,7 +33,7 @@ public class ToySpawn : MonoBehaviour
         body.AddForce(new Vector2(Momentum, 0), ForceMode2D.Impulse);
 
         //StartCoroutine(SpawnShake());
-        SoundManager.PlaySound(SoundType.TOY_BANG); // sound
+        SoundManager.PlaySound("Toy_Bang"); // sound
 
         // Assign the ToySpawn manager to the toy's health script
         ToyHealth toyHealth = toyClone.GetComponent<ToyHealth>();
@@ -57,7 +57,7 @@ public class ToySpawn : MonoBehaviour
     {
         for (int i = 0; i < shakeTimes; i++)
         {
-            SoundManager.PlaySound(SoundType.TOY_BANG);
+            SoundManager.PlaySound("Toy_Bang");
 
             yield return new WaitForSeconds(shakeLength);
         }
