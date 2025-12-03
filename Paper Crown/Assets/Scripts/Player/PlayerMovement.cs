@@ -4,92 +4,118 @@ using System.Collections;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [Header("Physics Components")]
     public Rigidbody2D body;
     public BoxCollider2D groundCheck;
-
-    public float jumpSpeed;
-    public float groundSpeed;
-    [Range(0f, 1f)]
-    public float groundDecay;
-    public LayerMask groundMask;
-    public bool grounded;
-    public bool isCrouching;
-    public float direction;
+    public Knockback knockback;
     public Push push;
-    public bool isWalking;
-    public bool isJumping;
 
+    [Header("Animators")]
     public Animator playerAnimator;
     public Animator movementPopdownAnimator;
 
-    public Knockback knockback;
+    [Header("Player States")]
+    public bool isCrouching;
+    public bool isWalking;
+    public bool isJumping;
 
+    [Header("Speeds")]
+    public float jumpSpeed;
+    public float groundSpeed;
+
+    [Header("Ground Detection")]
+    public bool grounded;
+    public float groundDecay;
+    public LayerMask groundMask;
+
+    [Header("Player Control Variables")]
     float xInput;
-    float yInput;
+    public float direction;
+    public bool controlsEnabled = true; // This will allow us to disable player movement
 
-    public bool controlsEnabled = true; // this will allow us to disable player movement
 
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        // Remove movement and gravity upon starting
         DisableMovement();
         body.gravityScale = 0;
 
-        direction = 1;
+        // Set up playerAnimator and movementPopdownAnimator
         playerAnimator = playerAnimator.GetComponent<Animator>();
         movementPopdownAnimator.SetTrigger("Popdown");
     }
 
+
     void FixedUpdate()
     {
+        // Check is player is on the ground and update animator velocities
         CheckGround();
         playerAnimator.SetFloat("xVelocity", Mathf.Abs(body.linearVelocity.x));
         playerAnimator.SetFloat("yVelocity", body.linearVelocity.y);
-        //ApplyFriction();
+        
+        // If the controls are enabled, move the player
         if (controlsEnabled)
         {
-            isWalking = Input.GetKey(KeyCode.A) | Input.GetKey(KeyCode.D);
-            playerAnimator.SetBool("isWalking", isWalking);
-            GetInput();
-            MoveWithInput();
-            if (xInput == 0 && grounded && knockback.KBCounter <= 0)
+            MovePlayer();
+            if (!isWalking && grounded && knockback.KBCounter <= 0)
             {
                 body.linearVelocity = new Vector2(0, body.linearVelocity.y);
             }
         }
-        
+
+        // Otherwise, stop the player's horizontal movement
         else
         {
             body.linearVelocity = new Vector2(0, body.linearVelocity.y);
-            playerAnimator.SetBool("isWalking", false);
+            isWalking = false;
         }
+        
+        // Update isWalking for the player animator
+        playerAnimator.SetBool("isWalking", isWalking);
+    }
+    
+    
+    // Enable and disable player movement
+    public void EnableMovement()
+    {
+        controlsEnabled = true;
+    }
+
+    public void DisableMovement()
+    {
+        body.linearVelocity = new Vector2(0, 0);
+        controlsEnabled = false;
     }
 
 
-    void CheckGround() // sees if player is grounded
+    // Determines is the player is on the ground
+    void CheckGround()
     {
         grounded = Physics2D.OverlapAreaAll(groundCheck.bounds.min, groundCheck.bounds.max, groundMask).Length > 0;
-        // if (grounded)
-        // {
-        //     isJumping = false;
-        //     playerAnimator.SetBool("isJumping", false);
-        // }
-        // else
-        // {
-        //     isJumping = true;
-        //     playerAnimator.SetBool("isJumping", true);
-        // }
     }
 
-    void MoveWithInput()
+
+    // Get the player's input, and update isWalking appropriately
+    void GetInput()
     {
-        // A and D movement
-        if(Input.GetKey(KeyCode.A) | Input.GetKey(KeyCode.D))
+        xInput = Input.GetAxis("Horizontal");
+
+        if (xInput != 0)
         {
-            body.linearVelocity = new Vector2(xInput * groundSpeed, body.linearVelocity.y);
-            direction = Mathf.Sign(xInput);
+            isWalking = true;
         }
+        else
+        {
+            isWalking = false;
+        }
+    }
+
+
+    void MovePlayer()
+    {
+        // Horizontal Movement
+        GetInput();
+        body.linearVelocity = new Vector2(xInput * groundSpeed, body.linearVelocity.y);
 
         // Jumping
         if (Input.GetKey(KeyCode.Space) && grounded && !push.isPushing && !isCrouching)
@@ -99,47 +125,29 @@ public class PlayerMovement : MonoBehaviour
             playerAnimator.SetBool("isJumping", !grounded);
         }
 
-
-
-        // crouch button
+        // Crouching Logic
         if (Input.GetKey(KeyCode.LeftShift) && push.isPushing == false)
         {
             if (grounded)
             {
-                isCrouching = true; // player is now crouching
+                // The player is now crouching
+                isCrouching = true;
                 playerAnimator.SetBool("isCrouching", true);
                 transform.localScale = new Vector3(direction * 2, 2, 2);
-                //player cant jump
+                // The player can't jump
             }
         }
-        else if(push.isPushing == false)// if not crouching set back to normal
+        else if(push.isPushing == false)
         {
+            // If not crouching set back to normal
             isCrouching = false;
             playerAnimator.SetBool("isCrouching", false);
             transform.localScale = new Vector3(direction * 2, 2, 2);
         }
-        // -- end of crouch
     }
-
-    void GetInput()
-    {
-        xInput = Input.GetAxis("Horizontal");
-    }
-
-    //void ApplyFriction()
-    //{
-    //    if (transform.localScale.y.magnitude <= -1)
-
-    //    if (grounded && xInput == 0 && yInput == 0)
-    //    {
-    //        body.linearVelocity *= groundDecay;
-    //    }
-    //    if (xInput == 0 && grounded)
-    //    {
-    //        body.linearVelocity = new Vector2(0, body.linearVelocity.y);
-    //    }
-    //}
     
+
+    // This triggers when the players collides with something on the collsion layer 7
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.layer == 7)
@@ -148,16 +156,5 @@ public class PlayerMovement : MonoBehaviour
             isJumping = false;
             playerAnimator.SetBool("isJumping", false);
         }
-    }
-
-    public void DisableMovement()
-    {
-        body.linearVelocity = new Vector2(0, 0);
-        controlsEnabled = false;
-    }
-
-    public void EnableMovement()
-    {
-        controlsEnabled = true;
     }
 }
