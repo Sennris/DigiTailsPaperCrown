@@ -24,7 +24,7 @@ public class Chest : MonoBehaviour
     public Animator playerAnimator;
     public Animator chestAnimator;
 
-    public Light2D ambientLight;
+    public Light ambientLight;
 
     void Start()
     {

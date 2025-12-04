@@ -63,7 +63,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: 1c4666f932211be4bae4ce70d04702a6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -108,6 +108,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 0
+  toySpawnManager: {fileID: 0}
 --- !u!50 &1376568184079050894
 Rigidbody2D:
   serializedVersion: 5
@@ -147,16 +148,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efb29cc047f2e50489aa379263a9be10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  groundSpeed: 1
   player: {fileID: 0}
   body: {fileID: 1376568184079050894}
   direction: 0
-  jumpSpeed: 5.5
   rayHitDistance: 0.5
+  groundRayHitDistance: 0
   hitLayer:
     serializedVersion: 2
     m_Bits: 128
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 0
   obstacleRay: {fileID: 4856909467600227504}
+  groundRay: {fileID: 0}
   actualHitLayer: 0
 --- !u!114 &8408485169691099190
 MonoBehaviour:
@@ -176,6 +180,7 @@ MonoBehaviour:
   KBTotalTime: 0.2
   KnockFromRight: 0
   knockbackGravityMultiplier: 3
+  playerHealth: {fileID: 0}
 --- !u!114 &5935520016405048683
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -190,7 +195,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerHealth: {fileID: 0}
   knockback: {fileID: 0}
+  playerAnimator: {fileID: 0}
   attackCooldown: 0
+  playerLight: {fileID: 0}
+  canAttack: 1
 --- !u!1 &1730320284773758472
 GameObject:
   m_ObjectHideFlags: 0
